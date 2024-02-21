@@ -1,0 +1,195 @@
+[name : 	تويوتا	, model : 	يارس	, type : 	واي بلس	, year: 	2024	, value : 	72450
+name : 	تويوتا	, model : 	كورلا	, type : 	كورلا 1500 ابيض	, year: 	2024	, value : 	81190
+name : 	تويوتا	, model : 	كورلا	, type : 	كورلا 2000 ابيض	, year: 	2024	, value : 	82800
+name : 	تويوتا	, model : 	كرولا	, type : 	كرولا كروس فل 	, year: 	2024	, value : 	148465
+name : 	تويوتا	, model : 	كرولا	, type : 	كورلا مطور 2000 فضي	, year: 	2024	, value : 	88895
+name : 	تويوتا	, model : 	كروان	, type : 	كروان بريميم فضي 	, year: 	2024	, value : 	162955
+name : 	تويوتا	, model : 	كامري	, type : 	كامري LE طيس بنزين رمادي	, year: 	2024	, value : 	128915
+name : 	تويوتا	, model : 	كامري	, type : 	كامري GLE بنزين فضي	, year: 	2024	, value : 	121900
+name : 	تويوتا	, model : 	كامري	, type : 	كامري Le هابيرد رمادي 	, year: 	2024	, value : 	111550
+name : 	تويوتا	, model : 	كامري	, type : 	كامري LE هايبرد ابيض - فضي	, year: 	2024	, value : 	109250
+name : 	تويوتا	, model : 	كامري	, type : 	كامري GLE هايبرد بني	, year: 	2024	, value : 	120290
+name : 	تويوتا	, model : 	جكسار	, type : 	جكسار 4 سلندر بنزين	, year: 	2024	, value : 	355465
+name : 	تويوتا	, model : 	راف فور	, type : 	راف فور ستاندر دبل	, year: 	2024	, value : 	119715
+name : 	تويوتا	, model : 	راف فور	, type : 	راف فور ليتمد هايبرد فضي	, year: 	2024	, value : 	163415
+name : 	تويوتا	, model : 	هايلندر	, type : 	ال أي بدون دبل	, year: 	2023	, value : 	154215
+name : 	تويوتا	, model : 	هايلندر	, type : 	هايلندر GLE دبل اسود	, year: 	2023	, value : 	172615
+name : 	تويوتا	, model : 	رايز	, type : 	رايز ستاندر 1.2	, year: 	2024	, value : 	69115
+name : 	تويوتا	, model : 	رايز	, type : 	رايز ليمتيد تربو 	, year: 	2024	, value : 	76590
+name : 	تويوتا	, model : 	انوفا	, type : 	انوفا GL 	, year: 	2024	, value : 	116265
+name : 	تويوتا	, model : 	فورتشنر	, type : 	فورتشنر GX2 بنزين دبل فضي	, year: 	2024	, value : 	149040
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس غماره ديزل بدون دبل 2400 لاقير عادي 	, year: 	2024	, value : 	96600
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس غمارد ديزل دبل 2400 قير عادي 	, year: 	2024	, value : 	107525
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس غمارتين ديزل بدون دبل 	, year: 	2024	, value : 	112700
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس غمارتين سلق GL2  دبل	, year: 	2024	, value : 	127075
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس GLX-S ديزل 2400 اتوماتيك	, year: 	2024	, value : 	15525
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس GLX-S ديزل 2400 عادي	, year: 	2024	, value : 	142715
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس ادفشنر ديزل	, year: 	2024	, value : 	168590
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس GX-S بنزين 	, year: 	2024	, value : 	182850
+name : 	تويوتا	, model : 	هايلكس	, type : 	هايلكس GR-S ديزل 	, year: 	2024	, value : 	178940
+name : 	تويوتا	, model : 	هايس	, type : 	هايس ركاب بنزين 6 سلندر قير عادي 	, year: 	2024	, value : 	142715
+name : 	تويوتا	, model : 	هايس	, type : 	هايس فان  بنزين 6 سلندر قير عادي 	, year: 	2024	, value : 	154100
+name : 	هونداي	, model : 	اكسنت	, type : 	سمارت  , year: 	2023	, value : 	63825
+name : 	هونداي	, model : 	اكسنت	, type : 	اكسنت سمارت 1600	, year: 	2024	, value : 	73370
+name : 	هونداي	, model : 	اكسنت	, type : 	اكسنت سمارت بلس	, year: 	2023	, value : 	67275
+name : 	هونداي	, model : 	النترا	, type : 	النترا سمارت 2000	, year: 	2024	, value : 	88090
+name : 	هونداي	, model : 	النترا	, type : 	النترا كمفورت 1600 	, year: 	2024	, value : 	91310
+name : 	هونداي	, model : 	كرينا	, type : 	كرينا سمارت	, year: 	2024	, value : 	86365
+name : 	تويوتا	, model : 	استريا	, type : 	استريا بنزين اتوماتيك 	, year: 	2024	, value : 	128915
+name : 	هونداي	, model : 	كريتا	, type : 	كريتا كمفورت 	, year: 	2023	, value : 	89240
+name : 	هونداي	, model : 	توسان	, type : 	توسان سمارت بلس 1600	, year: 	2023	, value : 	104650
+name : 	هونداي	, model : 	توسان	, type : 	توسان كمفورت بلس 1600	, year: 	2023	, value : 	121900
+name : 	هونداي	, model : 	بالسيد	, type : 	بالسيد كمفورت بدون دبل	, year: 	2023	, value : 	164450
+name : 	ام جي	, model : 	ام جي 5	, type : 	ام جي 5 ستاندر	, year: 	2023	, value : 	45195
+name : 	نيسان	, model : 	صني	, type : 	صني نص فل 	, year: 	2023	, value : 	69000
+name : 	نيسان	, model : 	صني	, type : 	صني فل كامل 	, year: 	2023	, value : 	70955
+name : 	نيسان	, model : 	التيما	, type : 	التيما SV نص فل بريك الكتروني اسود	, year: 	2023	, value : 	119715
+name : 	نيسان	, model : 	كيكس	, type : 	كيكس SV لون واحد	, year: 	2023	, value : 	79810
+name : 	نيسان	, model : 	كيكس	, type : 	كيكس SV لونين	, year: 	2023	, value : 	81420
+name : 	نيسان	, model : 	كيكس	, type : 	كيكس SL فل كامل	, year: 	2023	, value : 	89700
+name : 	نيسان	, model : 	اكستريل	, type : 	اكستريل ستاندر 5 ركاب دبل 	, year: 	2023	, value : 	108790
+name : 	نيسان	, model : 	اكستريل	, type : 	اكستريل ستاندر 7 ركاب دبل 	, year: 	2023	, value : 	110515
+name : 	نيسان	, model : 	اكستريل	, type : 	اكستريل  SV -  ركاب 7 دبل 	, year: 	2023	, value : 	124315
+name : 	نيسان	, model : 	اكستريل	, type : 	اكستريل  SV بلس -  ركاب 7 دبل 	, year: 	2023	, value : 	133515
+name : 	نيسان	, model : 	اكستريل	, type : 	اكستريل  SL  -  ركاب 7 دبل  فل كامل	, year: 	2023	, value : 	146165
+name : 	نيسان	, model : 	اكستيرا	, type : 	نيسان اكستيرا ستاندر دبل	, year: 	2023	, value : 	131100
+name : 	نيسان	, model : 	اكستيرا	, type : 	نيسان اكستيرا تيتانيوم بدون دبل	, year: 	2023	, value : 	126040
+name : 	نيسان	, model : 	اكستيرا	, type : 	نيسان اكستيرا تيتانيوم  دبل	, year: 	2023	, value : 	136160
+name : 	نيسان	, model : 	باترول	, type : 	نيسان باترول فتك قير عادي 	, year: 	2023	, value : 	159965
+name : 	فورد	, model : 	تورس	, type : 	فورد تورس امبياتي ابيض 	, year: 	2024	, value : 	129490
+name : 	فورد	, model : 	تورس	, type : 	فورد تورس ترند رمادي - ابيض 	, year: 	2024	, value : 	136965
+name : 	فورد	, model : 	تورس	, type : 	فورد تورس تيتانيوم ابيض	, year: 	2024	, value : 	154790
+name : 	فورد	, model : 	تورس	, type : 	فورد تورس تيتانيوم رمادي	, year: 	2024	, value : 	153640
+name : 	فورد	, model : 	تيرتيوري	, type : 	فورد تيرتيوري امبياتي الناغي 	, year: 	2024	, value : 	102005
+name : 	فورد	, model : 	تيرتيوري	, type : 	فورد تيرتيوري امبياتي الجزيره 	, year: 	2024	, value : 	104305
+name : 	فورد	, model : 	تيرتيوري	, type : 	فورد تيرتيوري ترند الناغي 	, year: 	2024	, value : 	113045
+name : 	فورد	, model : 	تيرتيوري	, type : 	فورد تيرتيوري تيتانيوم الناغي 	, year: 	2024	, value : 	127765
+name : 	فورد	, model : 	تيرتيوري	, type : 	فورد تيرتيوري تيتانيوم الجزيره 	, year: 	2024	, value : 	129720
+name : 	فورد	, model : 	اكسبلور	, type : 	فورد اكسبلور ستاندر 6 سلندر	, year: 	2023	, value : 	170315
+name : 	فورد	, model : 	اكسبلور	, type : 	فورد اكسبلور XLT مخمل 4 سلندر	, year: 	2023	, value : 	181010
+name : 	فورد	, model : 	اكسبلور	, type : 	فورد اكسبلور XLT جلد بانوراما	, year: 	2023	, value : 	196650
+name : 	فورد	, model : 	اكسيبيديشن	, type : 	فورد اكسيبيديشن XLT بدون دبل	, year: 	2023	, value : 	216200
+name : 	فورد	, model : 	اكسيبيديشن	, type : 	فورد اكسيبيديشن XLT  دبل	, year: 	2023	, value : 	228505
+name : 	فورد	, model : 	اكسيبيديشن	, type : 	فورد اكسيبيديشن تيمبرلاين 	, year: 	2022	, value : 	268065
+name : 	فورد	, model : 	رينجر	, type : 	فورد رينجر XLT 	, year: 	2023	, value : 	125580
+name : 	فورد	, model : 	رينجر	, type : 	فورد غمارتين رينجر ويلد تراك 	, year: 	2022	, value : 	138690
+name : 	فورد	, model : 	رينجر	, type : 	فورد غمارتين رنجر ويلد تراك اسود - ابيض	, year: 	2023	, value : 	164565
+name : 	فورد	, model : 	لينكون	, type : 	فورد لينكون ناتاليس - ريزيرف 	, year: 	2022	, value : 	180665
+name : 	شيري	, model : 	اريزو 5	, type : 	شيري اريزو 5 لكجري	, year: 	2023	, value : 	48875
+name : 	شيري	, model : 	اريزو 5	, type : 	شيري اريزو 5 كمفورت	, year: 	2024	, value : 	54050
+name : 	شيري	, model : 	اريزو 6	, type : 	 شيري اريزو 6 فلاجشيب	, year: 	2023	, value : 	64170
+name : 	شيري	, model : 	تيجو	, type : 	 شيري تيجو لكجري	, year: 	2023	, value : 	52325
+name : 	شيري	, model : 	تيجو 4	, type : 	شيري تيجو 4 برو فلاجشيب 	, year: 	2023	, value : 	68425
+name : 	شيري	, model : 	تيجو 7	, type : 	شيري تيجو 7 لكجري لون واحد	, year: 	2023	, value : 	72220
+name : 	شيري	, model : 	تيجو 7	, type : 	شيري تيجو 7 لكجري لونين	, year: 	2023	, value : 	73370
+name : 	ماكسيس	, model : 	ماكسيس	, type : 	ماكسيس غمارتين 60 - T لكجري ديزل	, year: 	2023	, value : 	92000
+name : 	هونداي	, model : 	اكسنت	, type : 	هيونداي  اكسنت   L1.4 SMART 	, year: 	2023	, value : 	64975
+name : 	هونداي	, model : 	النترا	, type : 	ھیونداي النترا 1.6 كمفورت 	, year: 	2023	, value : 	91885
+name : 	هونداي	, model : 	النترا	, type : 	ھیونداي النترا 2.0 SMART  	, year: 	2023	, value : 	88320
+name : 	هونداي	, model : 	فینیو	, type : 	ھیونداي فینیو  1.0T سمارت  	, year: 	2024	, value : 	6785
+name : 	هونداي	, model : 	كونا	, type : 	هيونداي كونا 2*4 Comfort  	, year: 	2024	, value : 	91425
+name : 	هونداي	, model : 	كونا	, type : 	ھیونداي كونا ھایبرد 2*4 SMART  	, year: 	2023	, value : 	100625
+name : 	هونداي	, model : 	كونا	, type : 	ھیونداي كونا T2.0 FLT 	, year: 	2024	, value : 	87975
+name : 	هونداي	, model : 	توسان	, type : 	ھیونداي توسان 4*2 1.6T سمارت بلس 	, year: 	2024	, value : 	107525
+name : 	هونداي	, model : 	توسان	, type : 	ھیونداي توسان 4*2 1.6T كمفورت بلس	, year: 	2024	, value : 	121210
+name : 	هونداي	, model : 	توسان	, type : 	ھیونداي توسان 4*2 2.0L سمارت بلس	, year: 	2024	, value : 	101200
+name : 	هونداي	, model : 	توسان	, type : 	ھیونداي توسان 4*2 2.0L كمفورت بلس	, year: 	2024	, value : 	114655
+name : 	نيسان	, model : 	صني	, type : 	 نیسان صني 1.5L SV+ AT	, year: 	2023	, value : 	55775
+name : 	نيسان	, model : 	صني	, type : 	نیسان صني  1.6L الجدید +SV نص فل   	, year: 	2023	, value : 	67850
+name : 	نيسان	, model : 	كیكس	, type : 	نیسان كیكس1.6     SV  	, year: 	2023	, value : 	81535
+name : 	نيسان	, model : 	أكستریل	, type : 	نیسان أكستریل 7راكب 4*4 2.5    	, year: 	2023	, value : 	124200
+name : 	نيسان	, model : 	أكستيرا	, type : 	  نيسان أكستيرا   4*4 SE L2.5	, year: 	2023	, value : 	133975
+name : 	نيسان	, model : 	اكورد	, type : 	ھوندا اكورد1.5T LX	, year: 	2023	, value : 	128225
+name : 	نيسان	, model : 	اكورد	, type : 	ھوندا اكورد1.5T EX	, year: 	2023	, value : 	140070
+name : 	فورد	, model : 	توروس	, type : 	رمادي – اسود 2024 فورد توروس امبیانتي 4V 2.0T 105500	, year: 	2024	, value : 	125925
+name : 	فورد	, model : 	توروس	, type : 	112700 رمادي 2024 فورد تورس ترند            NG 4V 2.0T	, year: 	2024	, value : 	134205
+name : 	فورد	, model : 	تیریتوري	, type : 	 فورد تیریتوري امبینتي1.8    	, year: 	2024	, value : 	103500
+name : 	فورد	, model : 	تیریتوري	, type : 	فورد تیریتوري ترند  	, year: 	2024	, value : 	114425
+name : 	فورد	, model : 	تیریتوري	, type : 	فورد تیریتوري تيتانيوم 	, year: 	2024	, value : 	129145
+name : 	شيفروليه	, model : 	كابتیفا	, type : 	T1.5 كابتیفا شیفرولیه بريمي	, year: 	2023	, value : 	81075
+name : 	هافال	, model : 	جولیان	, type : 	ھافال جولیان بیسك1.5L 	, year: 	2024	, value : 	66700
+name : 	هافال	, model : 	جولیان	, type : 	ھافال جولیان اكتیف بلس1.5L  	, year: 	2024	, value : 	77625
+name : 	هافال	, model : 	جولیان	, type : 	ھافال جولیان بریمیم 	, year: 	2024	, value : 	87975
+name : 	هافال	, model : 	H6	, type : 	هافال اكتيف 6H NEW 	, year: 	2023	, value : 	84525
+name : 	هافال	, model : 	H6	, type : 	هافال بريميوم 6H NEW 	, year: 	2023	, value : 	95105
+name : 	هافال	, model : 	H6	, type : 	ھافال  4*4بریمیوم GT 6H   	, year: 	2023	, value : 	109250
+name : 	هافال	, model : 	H9	, type : 	ھافال 9H دیجنیتي 	, year: 	2023	, value : 	133630
+name : 	هافال	, model : 	H9	, type : 	ھافال 9H دیجنیتي بانوراما 	, year: 	2023	, value : 	135700
+name : 	تانك	, model : 	تانك	, type : 	تانك 500 TANK الیت 	, year: 	2024	, value : 	188025
+name : 	نيسان	, model : 	التيما	, type : 	التيما ستاندر 	, year: 	2024	, value : 	119600
+name : 	جيتور	, model : 	جيتور	, type : 	جيتور نص فل 	, year: 	2024	, value : 	71415
+name : 	جيتور	, model : 	جيتور	, type : 	جيتور فل 	, year: 	2024	, value : 	73945
+name : 	جيتور	, model : 	جيتور	, type : 	جيتور 1.6 كمفورت	, year: 	2023	, value : 	82570
+name : 	جيتور	, model : 	جيتور	, type : 	جيتور 1.6 لاكجري	, year: 	2024	, value : 	106720] 
+
+add all these values also to this code
+
+
+var carData = {
+  "brands": [
+    {
+      "name": "تويوتا",
+      "models": [
+        {
+          "year": "2024",
+          "model": "يارس",
+          "type": "واي بلس",
+          "value": "72450",
+          "image": "تويوتا_يارس_واي بلس_2024.jpg"
+        },
+        {
+          "year": "2023",
+          "model": "هايلندر",
+          "type": "ال أي بدون دبل",
+          "value": "154215",
+          "image": "تويوتا_هايلندر_ال أي بدون دبل_2023.jpg"
+        },
+        {
+          "year": "2024",
+          "model": "كورولا",
+          "type": "فل كامل",
+          "value": "86500",
+          "image": "تويوتا_كورولا_فل كامل_2024.jpg"
+        }
+      ]
+    },
+    {
+      "name": "هونداي",
+      "models": [
+        {
+          "year": "2023",
+          "model": "اكسنت",
+          "type": "سمارت",
+          "value": "63825",
+          "image": "هونداي_اكسنت_سمارت_2023.jpg"
+        },
+        {
+          "year": "2024",
+          "model": "النترا",
+          "type": "توربو",
+          "value": "87350",
+          "image": "هونداي_النترا_توربو_2024.jpg"
+        }
+      ]
+    },
+    {
+      "name": "نيسان",
+      "models": [
+        {
+          "year": "2023",
+          "model": "سنترا",
+          "type": "إكسل",
+          "value": "73900",
+          "image": "نيسان_سنترا_إكسل_2023.jpg"
+        },
+        {
+          "year": "2024",
+          "model": "باترول",
+          "type": "بلاتينيوم",
+          "value": "317500",
+          "image": "نيسان_باترول_بلاتينيوم_2024.jpg"
+        }
+      ]
+    }
+  ]
+};

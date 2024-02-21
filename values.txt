@@ -1,0 +1,9 @@
+fullName
+phoneNumber
+salaryBank
+salaryAmount
+installmentDuration //number of months
+firstBatch
+commitmentsKind bank 45%/construction 65%
+detuctionamunt
+nesbacommitments
